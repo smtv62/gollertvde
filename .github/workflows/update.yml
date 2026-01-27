@@ -1,0 +1,32 @@
+name: 6 Saatlik Kanal Güncelleme
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu Klonla
+        uses: actions/checkout@v3
+
+      - name: Python Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Bağımlılıkları Yükle
+        run: pip install requests beautifulsoup4
+
+      - name: Botu Çalıştır
+        run: python bot.py
+
+      - name: Değişiklikleri Pushla
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.m3u
+          git commit -m "Kanal listesi güncellendi: $(date)" || exit 0
+          git push
