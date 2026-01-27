@@ -6,18 +6,22 @@ from bs4 import BeautifulSoup
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# 🌐 Siteyi çekerken BOT gibi görünmemek için normal tarayıcı UA
+# 🌐 Gerçekçi tarayıcı UA (siteyi çekerken kullanılacak)
 BROWSER_USER_AGENTS = [
+    # Windows Chrome
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    # Linux Chrome
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    # Android Chrome (mobil gibi görünür ama TV değil)
+    "Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
 ]
 
-# 📺 IPTV oynatıcıların kullanacağı TV UA
-TV_USER_AGENTS = [
-    "Mozilla/5.0 (Linux; Android 9; SHIELD Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (SMART-TV; Linux; Tizen 6.5) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 TV Safari/537.36",
-    "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Large Screen Safari/537.36",
-    "Mozilla/5.0 (Linux; Android 10; MiTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+# 📺 IPTV stream açılırken kullanılacak UA
+# TV ibaresi YOK — normal Android/Chrome gibi görünüyor
+STREAM_USER_AGENTS = [
+    "Mozilla/5.0 (Linux; Android 10; Mi Box S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 9; AFTN Build/PS7292) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Linux; Android 11; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 ]
 
 BIRAZSPOR_URL = "https://raw.githubusercontent.com/smtv62/birazspor/refs/heads/main/liste.m3u"
@@ -47,8 +51,8 @@ def browser_get(url, referer=None, timeout=10):
     )
 
 
-def tv_user_agent():
-    return random.choice(TV_USER_AGENTS)
+def stream_user_agent():
+    return random.choice(STREAM_USER_AGENTS)
 
 
 def find_active_site():
@@ -147,7 +151,7 @@ def create_m3u():
         if base_url:
             for cid, name in channels.items():
                 m3u.append(f'#EXTINF:-1 group-title="TRGoals",{name}')
-                m3u.append(f'#EXTVLCOPT:http-user-agent={tv_user_agent()}')
+                m3u.append(f'#EXTVLCOPT:http-user-agent={stream_user_agent()}')
                 m3u.append(f'#EXTVLCOPT:http-referrer={active_site}/')
                 m3u.append(f'#EXTVLCOPT:http-reconnect=true')
                 m3u.append(f'#EXTVLCOPT:network-caching=1000')
@@ -167,7 +171,7 @@ def create_m3u():
         f.write("\n".join(m3u))
 
     print("\n--- İŞLEM TAMAM ---")
-    print("GitHub uyumlu + TV uyumlu liste hazır 🚀")
+    print("Bot korumasına takılmayan + IPTV uyumlu liste hazır 🚀")
 
 
 if __name__ == "__main__":
