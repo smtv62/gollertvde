@@ -216,222 +216,215 @@ https://andro.226503.xyz/checklist/androstreamliveexn7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://andro.226503.xyz/checklist/androstreamliveexn8.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/trgoals.m3u8
+https://ojh.d72577a9dd0ec22.sbs/trgoals.m3u8
+#EXTINF:-1 group-title="TRGoals",Mirandes - Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/ex1.m3u8
+#EXTINF:-1 group-title="TRGoals",S Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/ss.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/b5.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b5.m3u8
 #EXTINF:-1 group-title="TRGoals",TRT Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/trtspor.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/b2.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/t2.m3u8
+https://ojh.d72577a9dd0ec22.sbs/trtspor.m3u8
 #EXTINF:-1 group-title="TRGoals",Tivibu 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/t1.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/t4.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/t3.m3u8
-#EXTINF:-1 group-title="TRGoals",S Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/ss.m3u8
-#EXTINF:-1 group-title="TRGoals",PSV Eindhoven - Feyenoord
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/ex2.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/b4.m3u8
+https://ojh.d72577a9dd0ec22.sbs/t1.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/b3.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Max 2
+https://ojh.d72577a9dd0ec22.sbs/b3.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/bm2.m3u8
-#EXTINF:-1 group-title="TRGoals",Boston - Milwaukee
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+https://ojh.d72577a9dd0ec22.sbs/t2.m3u8
+#EXTINF:-1 group-title="TRGoals",BeIN Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/ex1.m3u8
+https://ojh.d72577a9dd0ec22.sbs/b2.m3u8
+#EXTINF:-1 group-title="TRGoals",BeIN Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/b4.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/bm1.m3u8
-#EXTINF:-1 group-title="TRGoals",S Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/ss2.m3u8
-#EXTINF:-1 group-title="TRGoals",Smartspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/smarts.m3u8
-#EXTINF:-1 group-title="TRGoals",Smartspor 2
+https://ojh.d72577a9dd0ec22.sbs/bm1.m3u8
+#EXTINF:-1 group-title="TRGoals",BeIN Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/sms2.m3u8
-#EXTINF:-1 group-title="TRGoals",TRT Spor 2
+https://ojh.d72577a9dd0ec22.sbs/bm2.m3u8
+#EXTINF:-1 group-title="TRGoals",S Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/trtspor2.m3u8
-#EXTINF:-1 group-title="TRGoals",TRT 1
+https://ojh.d72577a9dd0ec22.sbs/ss2.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/trt1.m3u8
-#EXTINF:-1 group-title="TRGoals",A Spor
+https://ojh.d72577a9dd0ec22.sbs/t3.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/t4.m3u8
+#EXTINF:-1 group-title="TRGoals",Smartspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/as.m3u8
+https://ojh.d72577a9dd0ec22.sbs/smarts.m3u8
+#EXTINF:-1 group-title="TRGoals",Smartspor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/sms2.m3u8
+#EXTINF:-1 group-title="TRGoals",TRT Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/trtspor2.m3u8
+#EXTINF:-1 group-title="TRGoals",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/trt1.m3u8
+#EXTINF:-1 group-title="TRGoals",A Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/as.m3u8
 #EXTINF:-1 group-title="TRGoals",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/atv.m3u8
+https://ojh.d72577a9dd0ec22.sbs/atv.m3u8
 #EXTINF:-1 group-title="TRGoals",TV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/tv8.m3u8
-#EXTINF:-1 group-title="TRGoals",TV 8,5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/tv85.m3u8
+https://ojh.d72577a9dd0ec22.sbs/tv8.m3u8
+#EXTINF:-1 group-title="TRGoals",TV 8,5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://ojh.d72577a9dd0ec22.sbs/tv85.m3u8
 #EXTINF:-1 group-title="TRGoals",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/nbatv.m3u8
+https://ojh.d72577a9dd0ec22.sbs/nbatv.m3u8
 #EXTINF:-1 group-title="TRGoals",Euro Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/eu1.m3u8
+https://ojh.d72577a9dd0ec22.sbs/eu1.m3u8
 #EXTINF:-1 group-title="TRGoals",Euro Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1524.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1524.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1525.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1525.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
-https://d9o.d72577a9dd0ec21.sbs/eu2.m3u8
+https://ojh.d72577a9dd0ec22.sbs/eu2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" ,BeIN Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/receptestt.m3u8
+https://andro.326503.xyz/checklist/receptestt.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" ,BeIN Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebs2.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" ,BeIN Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebs3.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/cww8drm.png" ,BeIN Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebs4.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/63gjk4y.png" ,BeIN Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebs5.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebs5.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport MAX 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" ,BeIN Sport MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebsm1.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="bein_sport" tvg-name="BeIN Sport MAX 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://tvprofil.com/img/kanali-logo/beIN_Sports_MAX_2_TR_logo_v2.png?1734011568" ,BeIN Sport MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivebsm2.m3u8
+https://andro.326503.xyz/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="Tabii Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43023.jpeg" ,Tabii Spor
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w500/43005.jpeg" ,Tabii Spor 1
@@ -451,75 +444,75 @@ https://rxnE77JupTdEYKE3TytvGQWYh.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="ssport" tvg-name="S Sport" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/f0f167c1-f2b1-41d0-9713-75c315820713.png" ,S Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivess1.m3u8
+https://andro.326503.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="ssport" tvg-name="S Sport 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/80f415bc-60e4-4dd9-8dc6-6e51d88f6abb.png" ,S Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivess2.m3u8
+https://andro.326503.xyz/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="ssport" tvg-name="S Sport Plus" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/qioouyh.png" ,S Sport Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivessplus1.m3u8
+https://andro.326503.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn1.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn2.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn3.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn3.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn4.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn4.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn5.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn5.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 6" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn6.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn6.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 7" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn7.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="exxenspor" tvg-name="Exxen Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.hizliresim.com/ioxh9th.png" ,Exxen Spor 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveexn8.m3u8
+https://andro.326503.xyz/checklist/androstreamliveexn8.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="spor_smart" tvg-name="Spor Smart 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://image.milimaj.com/i/milliyet/75/869x477/61013bfb86b24419fc684867.jpg" ,Spor Smart 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivesm1.m3u8
+https://andro.326503.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="spor_smart" tvg-name="Spor Smart 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://image.milimaj.com/i/milliyet/75/869x477/61013bfb86b24419fc684867.jpg" ,Spor Smart 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivesm2.m3u8
+https://andro.326503.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="tivibu_spor" tvg-name="Tivibu Spor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" ,Tivibu Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivets.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="tivibu_spor" tvg-name="Tivibu Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" ,Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivets1.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="tivibu_spor" tvg-name="Tivibu Spor 2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" ,Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivets2.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="tivibu_spor" tvg-name="Tivibu Spor 3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" ,Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivets3.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-id="tivibu_spor" tvg-name="Tivibu Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" ,Tivibu Spor 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamlivets4.m3u8
+https://andro.326503.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Trt1" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/23846_1-0-465-262.jpeg" , TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="TRT SPOR" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtSpor" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/40480_0-0-465-261.jpeg" , TRT SPOR
@@ -533,7 +526,7 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=bf58ab52-4865-4c81-b223-26b4
 #EXTINF:-1 group-title="NeonSpor" tvg-name="Atv" tvg-language="Turkish" tvg-country="TR" tvg-id="atv" tvg-logo="https://i.hizliresim.com/sl35dyd.jpg" , Atv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://justintv.co/
-https://andro.326503.xyz////////////////////////////////////////checklist/androstreamliveatv.m3u8
+https://andro.326503.xyz/checklist/androstreamliveatv.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="A Spor" tvg-language="Turkish" tvg-country="TR" tvg-id="aspor" tvg-logo="https://bursasporxcom.teimg.com/crop/1280x720/bursasporx-com/uploads/2024/10/imaj-aspor.jpg" , A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="NeonSpor" tvg-name="HTSpor" tvg-language="Turkish" tvg-country="TR" tvg-id="htspor" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" , HTSpor
