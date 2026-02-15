@@ -222,20 +222,55 @@ https://andro.226503.xyz/checklist/androstreamliveexn8.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/trgoals.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/b2.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Sports 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/b5.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/t2.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/t1.m3u8
+#EXTINF:-1 group-title="TRGoals",Smartspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/smarts.m3u8
+#EXTINF:-1 group-title="TRGoals",Arsenal - Wigan Ath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/ex7.m3u8
+#EXTINF:-1 group-title="TRGoals",Tivibu 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/t3.m3u8
+#EXTINF:-1 group-title="TRGoals",S Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/ss.m3u8
 #EXTINF:-1 group-title="TRGoals",TRT Spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
@@ -243,42 +278,14 @@ https://no6.d72577a9dd0ec27.sbs/b5.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/trtspor.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/bm2.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/t2.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/t3.m3u8
 #EXTINF:-1 group-title="TRGoals",Tivibu 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/t4.m3u8
-#EXTINF:-1 group-title="TRGoals",Liverpool - Brighton
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/ex7.m3u8
-#EXTINF:-1 group-title="TRGoals",Al Fateh - Al Nassr
+#EXTINF:-1 group-title="TRGoals",Rangers - Hearts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
@@ -292,62 +299,13 @@ https://no6.d72577a9dd0ec27.sbs/ex1.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/b4.m3u8
-#EXTINF:-1 group-title="TRGoals",S Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/ss.m3u8
-#EXTINF:-1 group-title="TRGoals",Tivibu 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/t1.m3u8
-#EXTINF:-1 group-title="TRGoals",Hamburg - Union Berlin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/ex2.m3u8
-#EXTINF:-1 group-title="TRGoals",Derby County - Swansea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/ex3.m3u8
 #EXTINF:-1 group-title="TRGoals",BeIN Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/b3.m3u8
-#EXTINF:-1 group-title="TRGoals",BeIN Max 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/bm1.m3u8
-#EXTINF:-1 group-title="TRGoals",S Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/ss2.m3u8
-#EXTINF:-1 group-title="TRGoals",Smartspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
-#EXTVLCOPT:http-origin=https://trgoals1532.xyz
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=1500
-https://no6.d72577a9dd0ec27.sbs/smarts.m3u8
 #EXTINF:-1 group-title="TRGoals",Smartspor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
@@ -355,8 +313,36 @@ https://no6.d72577a9dd0ec27.sbs/smarts.m3u8
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/sms2.m3u8
-#EXTINF:-1 group-title="TRGoals",TRT Spor 2
+#EXTINF:-1 group-title="TRGoals",BeIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/b2.m3u8
+#EXTINF:-1 group-title="TRGoals",BeIN Max 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/bm1.m3u8
+#EXTINF:-1 group-title="TRGoals",BeIN Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/bm2.m3u8
+#EXTINF:-1 group-title="TRGoals",S Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1532.xyz
+#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT:network-caching=1500
+https://no6.d72577a9dd0ec27.sbs/ss2.m3u8
+#EXTINF:-1 group-title="TRGoals",TRT Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
@@ -377,42 +363,42 @@ https://no6.d72577a9dd0ec27.sbs/trt1.m3u8
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/as.m3u8
 #EXTINF:-1 group-title="TRGoals",ATV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/atv.m3u8
 #EXTINF:-1 group-title="TRGoals",TV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/tv8.m3u8
 #EXTINF:-1 group-title="TRGoals",TV 8,5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; AFTMM) AppleWebKit/537.36 (KHTML, like Gecko) Silk/112.3.1 like Chrome/112.0.5615.213 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/tv85.m3u8
 #EXTINF:-1 group-title="TRGoals",NBA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/nbatv.m3u8
 #EXTINF:-1 group-title="TRGoals",Euro Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:network-caching=1500
 https://no6.d72577a9dd0ec27.sbs/eu1.m3u8
 #EXTINF:-1 group-title="TRGoals",Euro Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Android TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trgoals1532.xyz/
 #EXTVLCOPT:http-origin=https://trgoals1532.xyz
 #EXTVLCOPT:http-reconnect=true
